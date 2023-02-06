@@ -3,4 +3,4 @@ Aplikasi data rujukan rs covid-19 ini adalah aplikasi berbasis website yang bert
 Anggota Kelompok : 
 Luthfi Fauzan (21102148)
 Zaky Ahdzan Nirwanda (21102148)
-Ikhtifadudin Al Ghifari (211022
+Ikhtifadudin Al Ghifari (21102210)
